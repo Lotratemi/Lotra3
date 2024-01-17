@@ -1,3 +1,4 @@
+
 <div class="container-entete">
       <div class="upper-zone">
         <div class="upper-zone-content">
@@ -21,9 +22,9 @@
               </div>
             </div>
             <div class="zone-2-lower">
-              <form action="" class="champ-recherche">
-                <button type="submit"><i class='bx bx-search'></i></button>
-                <input type="text" class="barre-recherche" placeholder="Rechercher">
+              <form action="resultat-recherche.php" method="get" class="champ-recherche">
+                <button type="submit" name="recherche"><i class='bx bx-search'></i></button>
+                <input type="text" class="barre-recherche" placeholder="Rechercher un produit">
               </form>
             </div>
           </div>
