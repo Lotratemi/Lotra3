@@ -23,8 +23,8 @@
             </div>
             <div class="zone-2-lower">
               <form action="resultat-recherche.php" method="get" class="champ-recherche">
-                <button type="submit" name="recherche"><i class='bx bx-search'></i></button>
-                <input type="text" class="barre-recherche" placeholder="Rechercher un produit">
+                <button type="submit"><i class='bx bx-search'></i></button>
+                <input type="text" name="recherche" class="barre-recherche" placeholder="Rechercher un produit">
               </form>
             </div>
           </div>

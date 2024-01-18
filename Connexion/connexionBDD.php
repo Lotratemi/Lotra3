@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__  . "/congig.php");
+require_once(__DIR__  . "/config.php");
 
 try {
     $mysqlClient = new PDO(
